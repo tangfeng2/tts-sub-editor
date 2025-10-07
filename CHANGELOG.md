@@ -1,6 +1,6 @@
 # 🧾 Change Log
 
-## [v1.1.65] - 2025-10-07
+## [v1.1.66] - 2025-10-07
 - feat: Update subtitle handling and processing logic duplicate subtitle, including enabling/disabling subtitles and improving item count display
 - And other changes
 
