@@ -1,5 +1,11 @@
 # 🧾 Change Log
 
+## [v1.1.69] - 2025-10-14
+- fix edit timeline if video is long, zoom out completely then hide subtitle item
+- fix some video rendering errors with software and add cancel render btn
+- added feature to allow dragging audio directly from outside into subtitle in action
+
+
 ## [v1.1.67] - 2025-10-10
 - fix: render softwave, tts provider, scrollview table, public set thread for Ai translate trial...
 
