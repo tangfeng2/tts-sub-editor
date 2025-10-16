@@ -1,10 +1,12 @@
 # 🧾 Change Log
 
+## [v1.1.70] - 2025-10-16
+- fix audio splitting, allow playback of split audio and select split audio when exporting to capcut, and fix memory cleanup after audio splitting, and some other small changes 
+
 ## [v1.1.69] - 2025-10-14
 - fix edit timeline if video is long, zoom out completely then hide subtitle item
 - fix some video rendering errors with software and add cancel render btn
 - added feature to allow dragging audio directly from outside into subtitle in action
-
 
 ## [v1.1.67] - 2025-10-10
 - fix: render softwave, tts provider, scrollview table, public set thread for Ai translate trial...
