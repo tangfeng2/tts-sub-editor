@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.1.71] - 2025-10-19
+- Fix plugin conflicts causing interface lag
+
 ## [v1.1.70] - 2025-10-16
 - fix audio splitting, allow playback of split audio and select split audio when exporting to capcut, and fix memory cleanup after audio splitting, and some other small changes 
 
