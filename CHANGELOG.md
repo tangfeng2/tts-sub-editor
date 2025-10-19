@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.1.73] - 2025-10-19
+- fix for text2speech running multiple specified threads at the same time, and some other changes
+
 ## [v1.1.72] - 2025-10-19
 - Fix box blur drawing scale error
 - Add optional concise translation feature
