@@ -1,5 +1,9 @@
 # 🧾 Change Log
 
+## [v1.1.72] - 2025-10-19
+- Fix box blur drawing scale error
+- Add optional concise translation feature
+
 ## [v1.1.71] - 2025-10-19
 - Fix plugin conflicts causing interface lag
 
