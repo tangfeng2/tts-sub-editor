@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.1.76] - 2025-10-21
+- Added text-to-speech feature and some other minor optimization changes
+
 ## [v1.1.73] - 2025-10-19
 - fix for text2speech running multiple specified threads at the same time, and some other changes
 
