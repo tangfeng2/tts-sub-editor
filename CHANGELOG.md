@@ -1,5 +1,10 @@
 # 🧾 Change Log
 
+## [v1.1.79] - 2025-10-22
+- add export feature to CapCut 3 optional mode for syncing voice with video
+- add prompt translate ver 3
+- fix voice tts error for x services when cutting audio multiple segments incorrectly, and optimize some other features...
+
 ## [v1.1.76] - 2025-10-21
 - Added text-to-speech feature and some other minor optimization changes
 
