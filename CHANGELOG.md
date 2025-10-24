@@ -1,5 +1,10 @@
 # 🧾 Change Log
 
+## [v1.1.80] - 2025-10-23
+- add allow multiple api key input for translation
+- fix add vocal for capcut sync mode export
+- fix lag/block ui, ui is not blocked when heavy operation... and some other small updates
+
 ## [v1.1.79] - 2025-10-22
 - add export feature to CapCut 3 optional mode for syncing voice with video
 - add prompt translate ver 3
