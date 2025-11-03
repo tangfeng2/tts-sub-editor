@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.1.82] - 2025-11-03
+- fix export error to cc, tts vad replace and refactor logic time wait tts for x service and batch size...
+
 ## [v1.1.80] - 2025-10-23
 - add allow multiple api key input for translation
 - fix add vocal for capcut sync mode export
