@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.1.84] - 2025-11-04
+- fix audio merge temp dir and uncompress lib, and refactor ui log, some other small updates
+
 ## [v1.1.83] - 2025-11-04
 - add feat merge and export only audio voiceover, update feat ocr only extract frame fast speed, open file final after export
 
