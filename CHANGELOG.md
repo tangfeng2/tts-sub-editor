@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.1.83] - 2025-11-04
+- add feat merge and export only audio voiceover, update feat ocr only extract frame fast speed, open file final after export
+
 ## [v1.1.82] - 2025-11-03
 - fix export error to cc, tts vad replace and refactor logic time wait tts for x service and batch size...
 
