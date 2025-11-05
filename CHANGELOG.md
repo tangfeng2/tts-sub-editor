@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.1.85] - 2025-11-05
+- fix: ui lag
+
 ## [v1.1.84] - 2025-11-04
 - fix audio merge temp dir and uncompress lib, and refactor ui log, some other small updates
 
