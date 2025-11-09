@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.2.1] - 2025-11-09
+- add tab scan and download videos of some social networks...
+
 ## [v1.1.85] - 2025-11-05
 - fix: ui lag
 
