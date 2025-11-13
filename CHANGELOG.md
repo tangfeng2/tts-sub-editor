@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.2.3] - 2025-11-13
+- add speaker recognition feature beta
+
 ## [v1.2.1] - 2025-11-09
 - add tab scan and download videos of some social networks...
 
