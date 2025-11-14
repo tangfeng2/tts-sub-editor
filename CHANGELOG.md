@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.2.5] - 2025-11-15
+- fix export capcut timing and combine track, fix diarize speaker, add ocr cloud for single ocr, fix ocr extrack GPU for Nvidia cuda ver 11.8
+
 ## [v1.2.3] - 2025-11-13
 - add speaker recognition feature beta
 
