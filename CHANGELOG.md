@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.2.7] - 2025-11-27
+- fix export support for capcut old version
+
 ## [v1.2.6] - 2025-11-27
 - fix vbee api tts
 
