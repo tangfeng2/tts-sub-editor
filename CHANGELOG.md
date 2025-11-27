@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v1.2.6] - 2025-11-27
+- fix vbee api tts
+
 ## [v1.2.5] - 2025-11-15
 - fix export capcut timing and combine track, fix diarize speaker, add ocr cloud for single ocr, fix ocr extrack GPU for Nvidia cuda ver 11.8
 
