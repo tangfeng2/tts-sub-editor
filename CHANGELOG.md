@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.0.2] - 2025-12-17
+- The update includes version 2 and many other changes, while version 1 remains unchanged.
+
 ## [v1.2.7] - 2025-11-27
 - fix export support for capcut old version
 
