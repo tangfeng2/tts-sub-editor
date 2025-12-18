@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.0.3] - 2025-12-18
+- V2: add Effect, fix keyframe for blur effect and some other changes
+
 ## [v2.0.2] - 2025-12-17
 - The update includes version 2 and many other changes, while version 1 remains unchanged.
 
