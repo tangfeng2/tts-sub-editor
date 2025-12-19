@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.0.4] - 2025-12-20
+- V2: fix and update optimization UI, update for long video phase 1 and some other changes
+
 ## [v2.0.3] - 2025-12-18
 - V2: add Effect, fix keyframe for blur effect and some other changes
 
