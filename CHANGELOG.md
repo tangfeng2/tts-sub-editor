@@ -1,5 +1,9 @@
 # 🧾 Change Log
 
+## [v2.0.5] - 2025-12-21
+- V2: Fix and update optimization UI phase 1, this helps the interface run more smoothly, without lag or slowdown during operation.
+- Add export custom folder, manipulate the timeline faster with the slider. And some other changes
+
 ## [v2.0.4] - 2025-12-20
 - V2: fix and update optimization UI, update for long video phase 1 and some other changes
 
