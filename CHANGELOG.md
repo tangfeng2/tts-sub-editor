@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.0.7] - 2025-12-22
+- V2: fix capcut export, add a few more fonts, and some other changes
+
 ## [v2.0.5] - 2025-12-21
 - V2: Fix and update optimization UI phase 1, this helps the interface run more smoothly, without lag or slowdown during operation.
 - Add export custom folder, manipulate the timeline faster with the slider. And some other changes
