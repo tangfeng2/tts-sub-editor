@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.0.9] - 2025-12-23
+- V2: add ducking, speed for video and extract/import srt hold speed video and update some other changes
+
 ## [v2.0.7] - 2025-12-22
 - V2: fix capcut export, add a few more fonts, and some other changes
 
@@ -23,7 +26,7 @@
 - fix vbee api tts
 
 ## [v1.2.5] - 2025-11-15
-- fix export capcut timing and combine track, fix diarize speaker, add ocr cloud for single ocr, fix ocr extrack GPU for Nvidia cuda ver 11.8
+- fix export capcut timing and combine track, fix diarize speaker, add ocr cloud for single ocr, fix ocr extract GPU for Nvidia cuda ver 11.8
 
 ## [v1.2.3] - 2025-11-13
 - add speaker recognition feature beta
