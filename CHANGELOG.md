@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.0.10] - 2025-12-24
+- The general update adds features such as finding missing files, importing existing projects from v1, and fixes several bugs from the previous update...
+
 ## [v2.0.9] - 2025-12-23
 - V2: add ducking, speed for video and extract/import srt hold speed video and update some other changes
 
