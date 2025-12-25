@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.0.13] - 2025-12-25
+- V2: update speed track and main track, add sticker/shape tab and some other changes
+
 ## [v2.0.10] - 2025-12-24
 - The general update adds features such as finding missing files, importing existing projects from v1, and fixes several bugs from the previous update...
 
