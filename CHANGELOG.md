@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.0.16] - 2025-12-28
+- V2: Added captions and presets, and updated to fix some remaining bugs.
+
 ## [v2.0.13] - 2025-12-25
 - V2: update speed track and main track, add sticker/shape tab and some other changes
 
