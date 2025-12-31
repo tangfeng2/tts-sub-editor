@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.0.17] - 2025-12-31
+- V2: Added separate audio from video, fixed and updated bugs related to timeline, subtitle editing, captions, and other outstanding changes.
+
 ## [v2.0.16] - 2025-12-28
 - V2: Added captions and presets, and updated to fix some remaining bugs.
 
