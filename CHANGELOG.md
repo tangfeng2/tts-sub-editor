@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.3] - 2026-01-04
+- V2: Bug fixes and numerous CUDA updates for CLI libraries...
+
 ## [v2.0.17] - 2025-12-31
 - V2: Added separate audio from video, fixed and updated bugs related to timeline, subtitle editing, captions, and other outstanding changes.
 
