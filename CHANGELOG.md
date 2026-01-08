@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.4] - 2026-01-08
+- Fixes timeline bugs, undo/redo, updates OCR - optimizes CPU performance and improves subtitle output speed, and other changes.
+
 ## [v2.1.3] - 2026-01-04
 - V2: Bug fixes and numerous CUDA updates for CLI libraries...
 
