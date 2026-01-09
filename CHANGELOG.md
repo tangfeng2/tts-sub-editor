@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.5] - 2026-01-09
+- Fix ffmpeg not working on some CPUs 
+
 ## [v2.1.4] - 2026-01-08
 - Fixes timeline bugs, undo/redo, updates OCR - optimizes CPU performance and improves subtitle output speed, and other changes.
 
