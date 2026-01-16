@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.8] - 2026-01-16
+- Fix and update remaining issues, add new text-to-speech features that run on local machines with CPUs and GPUs like VieNeu... free forever.
+
 ## [v2.1.5] - 2026-01-09
 - Fix ffmpeg not working on some CPUs 
 
