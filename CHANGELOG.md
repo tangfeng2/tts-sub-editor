@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.11] - 2026-01-21
+- V2: Added multi-timeline, experimented with video summaries for intros, added transitions, effects, added accelerated voice generation, and several other changes.
+
 ## [v2.1.8] - 2026-01-16
 - Fix and update remaining issues, add new text-to-speech features that run on local machines with CPUs and GPUs like VieNeu... free forever.
 
