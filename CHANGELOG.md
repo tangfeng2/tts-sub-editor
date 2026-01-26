@@ -4,7 +4,7 @@
 - V2: 🎉 Updates to the native renderer for even faster performance ⚡ and the addition of missing resources, more accurate batch replaceer updates, optimized user interface....
 
 ## [v2.1.13] - 2026-01-24
-- V2: Added faster native video rendering with direct GPU communication (beta version), easier keyframe customization, enabled customization to increase batch size each time voice generation is sent, adjusted the Downloads interface, and many other changes and bug fixes.
+- V2: 🎉 Added faster ⚡ native video rendering with direct GPU communication (beta version), easier keyframe customization, enabled customization to increase batch size each time voice generation is sent, adjusted the Downloads interface, and many other changes and bug fixes.
 
 ## [v2.1.11] - 2026-01-21
 - V2: Added multi-timeline, experimented with video summaries for intros, added transitions, effects, added accelerated voice generation, and several other changes.
