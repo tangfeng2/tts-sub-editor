@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.20] - 2026-01-29
+- V2: ⚡ Fixed interface freezing or lag when importing resources, added keyboard shortcuts, and some minor customizations.
+
 ## [v2.1.19] - 2026-01-29
 - V2: 🎉 Optimized the inspector's interface and functions, improved video rendering speed with the native renderer, added video loading from Bilibili, scene splitting, added necessary features to the timeline, and other changes.
 
