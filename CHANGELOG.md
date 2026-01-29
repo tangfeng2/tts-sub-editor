@@ -1,6 +1,6 @@
 # 🧾 Change Log
 
-## [v2.1.15] - 2026-01-26
+## [v2.1.19] - 2026-01-29
 - V2: 🎉 Optimized the inspector's interface and functions, improved video rendering speed with the native renderer, added video loading from Bilibili, scene splitting, added necessary features to the timeline, and other changes.
 
 ## [v2.1.15] - 2026-01-26
