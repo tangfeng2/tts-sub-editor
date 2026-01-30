@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.21] - 2026-01-30
+- V2: 🎉 Optimized interface and added shortcut features, timeline support for showing up to 50 tracks, and other changes.
+
 ## [v2.1.20] - 2026-01-29
 - V2: ⚡ Fixed interface freezing or lag when importing resources, added keyboard shortcuts, and some minor customizations.
 
