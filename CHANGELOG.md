@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.22] - 2026-01-31
+- V2: 🎉 Added project template saving to apply to other projects, fixed interface lag for the subtitles editor tab, updated parallel voice TTS loading...
+
 ## [v2.1.21] - 2026-01-30
 - V2: 🎉 Optimized interface and added shortcut features, timeline support for showing up to 50 tracks, and other changes.
 
