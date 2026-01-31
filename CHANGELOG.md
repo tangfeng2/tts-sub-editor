@@ -4,7 +4,7 @@
 - V2: 🎉 Added project template saving to apply to other projects, fixed interface lag for the subtitles editor tab, updated parallel voice TTS loading...
 
 ## [v2.1.21] - 2026-01-30
-- V2: 🎉 Optimized interface and added shortcut features, timeline support for showing up to 50 tracks, and other changes.
+- V2: 🎉 Optimized interface and added shortcut features, timeline support for showing up to 50h, and other changes.
 
 ## [v2.1.20] - 2026-01-29
 - V2: ⚡ Fixed interface freezing or lag when importing resources, added keyboard shortcuts, and some minor customizations.
