@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.23] - 2026-02-01
+- V2: 🎉 Fixes include migrating data to a new database to prevent app crashes and data loss, and updating the core to a newer version to improve performance...
+
 ## [v2.1.22] - 2026-01-31
 - V2: 🎉 Added project template saving to apply to other projects, fixed interface lag for the subtitles editor tab, updated parallel voice TTS loading...
 
