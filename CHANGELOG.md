@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.24] - 2026-02-03
+- V2: 🎉 fix sync mode, fix trial mode, fix render text, optimize preview - timeline, add ollama service for translation and fix some bugs.
+
 ## [v2.1.23] - 2026-02-01
 - V2: 🎉 Fixes include migrating data to a new database to prevent app crashes and data loss, and updating the core to a newer version to improve performance...
 
