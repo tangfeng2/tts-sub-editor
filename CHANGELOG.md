@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.25] - 2026-02-04
+- V2: 🎉 Fix video and UI rendering on dGPU if available, improve application loading, and other performance changes.
+
 ## [v2.1.24] - 2026-02-03
 - V2: 🎉 fix sync mode, fix trial mode, fix render text, optimize preview - timeline, add ollama service for translation and fix some bugs.
 
