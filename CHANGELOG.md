@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.26] - 2026-02-05
+- V2: 🎉 Fixed the unresponsive data tab translation bug from the previous version, removed tools, added translation services with Jan for lightweight GGUF models, and further fixed duration and resolution projects.
+
 ## [v2.1.25] - 2026-02-04
 - V2: 🎉 Fix video and UI rendering on dGPU if available, improve application loading, and other performance changes.
 
