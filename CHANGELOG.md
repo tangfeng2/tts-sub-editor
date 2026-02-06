@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.28] - 2026-02-06
+- Fix download douyin
+
 ## [v2.1.27] - 2026-02-05
 - V2: 🎉 Fixed asynchronous sync mode and paging errors, keyframe issues, replaced the audio recognition sensor with a more accurate audio segmentation sensor for sending voiceovers with multiple segments.
 
