@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.29] - 2026-02-06
+- V2: 🎉 Fixed Unicode errors for input file paths, third-party TTS APIs for some services, fixed sync mode for more accurate mapping with selected tracks, added GTTS...
+
 ## [v2.1.28] - 2026-02-06
 - Fix download douyin
 
