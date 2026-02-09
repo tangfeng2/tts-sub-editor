@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.1.31] - 2026-02-09
+- Fix download tab, v2 add JSON output OCR full frame for video with subtitles in multiple positions...
+
 ## [v2.1.30] - 2026-02-07
 - V2: 🎉 Fix tts, add google tts api, fix path unicode...
 
