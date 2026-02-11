@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.2] - 2026-02-11
+- V2: 🎉 Added a proxy feature for high-speed preview for both playback and seek view, and several other changes.
+
 ## [v2.1.31] - 2026-02-09
 - Fix download tab, v2 add JSON output OCR full frame for video with subtitles in multiple positions...
 
