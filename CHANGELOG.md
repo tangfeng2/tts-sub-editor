@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.3] - 2026-02-13
+- Local tts add nghitts and kokoro tts, V2 add kennel support for dGPU RTX 5000 series OCR
+
 ## [v2.2.2] - 2026-02-11
 - V2: 🎉 Added a proxy feature for high-speed preview for both playback and seek view, and several other changes.
 
