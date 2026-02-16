@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.4] - 2026-02-16
+- 🎉 Local TTS update, V2 sub editor fix lag ON large items..
+
 ## [v2.2.3] - 2026-02-13
 - Local tts add nghitts and kokoro tts, V2 add kennel support for dGPU RTX 5000 series OCR
 
