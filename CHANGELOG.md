@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.5] - 2026-02-18
+- V2: 🎉 Update local tts, fix logic and voice config and some bugs..
+
 ## [v2.2.4] - 2026-02-16
 - 🎉 Local TTS update, V2 sub editor fix lag ON large items..
 
