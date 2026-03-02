@@ -1,5 +1,12 @@
 # 🧾 Change Log
 
+## [v2.2.15] - 2026-03-02
+- 🎉 Update OCR to prioritize accuracy and avoid missing subtitles.
+- Add preview control, add GIF export, add input/output points for export.
+- Specifically, I'm fixing the audio rendering issues for the app, as the previous audio sync mode wasn't accurate.
+- Remove V1 tab Editor, and optimize the interface.
+- fix license.
+
 ## [v2.2.14] - 2026-03-02
 - 🎉 Update OCR to prioritize accuracy and avoid missing subtitles.
 - Add preview control, add GIF export, add input/output points for export.
