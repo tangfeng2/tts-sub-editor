@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.17] - 2026-03-03
+- update ocr engine..., add music gen (text to music)
+
 ## [v2.2.15] - 2026-03-02
 - 🎉 Update OCR to prioritize accuracy and avoid missing subtitles.
 - Add preview control, add GIF export, add input/output points for export.
