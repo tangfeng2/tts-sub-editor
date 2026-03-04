@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.18] - 2026-03-04
+- re-release ver ocr engine, fix keyframe and tracking, update video cache.
+
 ## [v2.2.17] - 2026-03-03
 - update ocr engine..., add music gen (text to music)
 
