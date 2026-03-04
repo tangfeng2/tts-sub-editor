@@ -2,4 +2,4 @@
 
 
 # Demo
-![TTS Subtitle Editor Demo](./assets/Screenshot_01.jpg)
+![TTS Subtitle Editor Demo](./assets/demo-3.png)
