@@ -1,7 +1,7 @@
 # 🧾 Change Log
 
 ## [v2.2.20] - 2026-03-05
-- 🎉 Add Equalizer, yt-dlp add video direct to timeline, fix effect blur and some bugs...
+- 🎉 Add Equalizer for audio, yt-dlp add video direct to timeline, fix effect blur and some bugs...
 
 ## [v2.2.18] - 2026-03-04
 - re-release ver ocr engine, fix keyframe and tracking, update video cache.
