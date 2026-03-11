@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.24] - 2026-03-11
+- 🎉 Update Audio EQ for project, fix scan Bilibili....
+
 ## [v2.2.22] - 2026-03-08
 - 🎉 Update Audio Equalizer fix cache, add master volume for project, fix path for default project and some bugs...
 
