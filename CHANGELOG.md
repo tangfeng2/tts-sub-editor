@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.25] - 2026-03-12
+- fix LocalTTS, sync mode for no video, proxy fmt and some bugs...
+
 ## [v2.2.24] - 2026-03-11
 - 🎉 Update Audio EQ for project, fix scan Bilibili....
 
