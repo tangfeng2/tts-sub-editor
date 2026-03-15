@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.26] - 2026-03-15
+- 🎉 Update OCR Engine, fix LocalTTS, add Thumb design, sync mode and some bugs...
+
 ## [v2.2.25] - 2026-03-12
 - fix LocalTTS, sync mode for no video, proxy fmt and some bugs...
 
