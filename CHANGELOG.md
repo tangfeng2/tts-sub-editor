@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.27] - 2026-03-17
+🚀 Update LocalTTS add Cthttsv3 The clone's voice is very similar to the original sample, add manual diarization, fix path error for native render and some bugs...
+
 ## [v2.2.26] - 2026-03-15
 - 🎉 Update OCR Engine, fix LocalTTS, add Thumb design, sync mode and some bugs...
 
