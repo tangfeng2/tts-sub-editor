@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.35] - 2026-03-22
+🚀 Update LocalTTS, fix path render engine, improve performance and some other minor bugs and changes
+
 ## [v2.2.32] - 2026-03-20
 🚀 fix and Update LocalTTS engines, add new provider, update UI and some bugs...
 
