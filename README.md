@@ -4,7 +4,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/CreativeHub008)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/CreativeHub008)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@creativehub008)
-[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/tangfeng2/tts-sub-editor/releases/latest "Download lastes version")
+[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?logo=windows&logoColor=white)](https://github.com/CreativeHub008/tts-sub-editor/releases/latest "Download lastes version")
 # Demo
 [![TTS and Subtitle Editor App](./assets/demo-3.png)](https://www.youtube.com/@CreativeHub008)
 
