@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.36] - 2026-03-23
+🚀 Fix model path for lang detect and update Timeline...
+
 ## [v2.2.35] - 2026-03-22
 🚀 Update LocalTTS, fix path render engine, improve performance and some other minor bugs and changes
 
