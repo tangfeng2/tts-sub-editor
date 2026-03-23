@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.2.38] - 2026-03-23
+🚀 Fix lang tts, add audio extrack srt v3 and some bugs...
+
 ## [v2.2.36] - 2026-03-23
 🚀 Fix model path for lang detect and update Timeline...
 
