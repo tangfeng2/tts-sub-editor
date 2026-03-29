@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.1] - 2026-03-29
+🎉 add Composition and copy item in timeline, fix tts tiktok for free, and some other minor bugs and changes...
+
 ## [v2.2.38] - 2026-03-23
 🚀 Fix lang tts, add audio extrack srt v3 and some bugs...
 
