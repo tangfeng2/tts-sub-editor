@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.5] - 2026-04-04
+🚀 fix bugs... native renderer, local tts, preview, 🗣️ add new provider for tts (OmniTTS), and some other minor bugs and changes...
+
 ## [v2.3.3] - 2026-04-01
 - fix bugs..., add new provider for tts...
 
