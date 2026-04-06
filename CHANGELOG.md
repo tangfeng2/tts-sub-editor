@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.8] - 2026-04-06
+🚀 fix download tab. update auto select text track when click timeline. add Ai Agent task for translate and some other minor bugs and changes...
+
 ## [v2.3.5] - 2026-04-04
 🚀 fix bugs... native renderer, local tts, preview, 🗣️ add new provider for tts (OmniTTS), and some other minor bugs and changes...
 
