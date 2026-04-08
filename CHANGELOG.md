@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.12] - 2026-04-08
+🎉 hot fix gpu library for ocr, and Includes changes from v2.3.11...
+
 ## [v2.3.11] - 2026-04-08
 🎉 add Chat Assistant, update render text, ai studio, 🚀 fix bugs and some other minor bugs and changes...
 
