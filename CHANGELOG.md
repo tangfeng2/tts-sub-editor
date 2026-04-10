@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.14] - 2026-04-10
+🎉 update local tts, and some bugs...
+
 ## [v2.3.13] - 2026-04-09
 🎉 fix sync mode, text render. feat: add soloed track, transform for multi items and some bugs...
 
