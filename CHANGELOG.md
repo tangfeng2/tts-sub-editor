@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.17] - 2026-04-13
+🎉 fix local tts, and optimize the user interface...
+
 ## [v2.3.16] - 2026-04-12
 🎉 fix bug local tts support for only CPU, and some other minor bugs and changes...
 
