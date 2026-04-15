@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.18] - 2026-04-15
+🎉 update local tts, add new provider voxcpm, and some other minor bugs and changes...
+
 ## [v2.3.17] - 2026-04-13
 🎉 fix local tts, and optimize the user interface...
 
