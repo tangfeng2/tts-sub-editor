@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.19] - 2026-04-16
+🎉 update local tts, fix logic generate voice for editor and add tip for user using thread...
+
 ## [v2.3.18] - 2026-04-15
 🎉 update local tts, add new provider voxcpm, and some other minor bugs and changes...
 
