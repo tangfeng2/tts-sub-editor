@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.20] - 2026-04-17
+🎉 fix voice genarate task, add api usage for local tts, and some other minor bugs and changes...
+
 ## [v2.3.19] - 2026-04-16
 🎉 update local tts, fix logic generate voice for editor and add tip for user using thread...
 
