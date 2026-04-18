@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.21] - 2026-04-19
+🎉 local tts fix lib for GPU 5000 series, and some other minor bugs and changes...
+
 ## [v2.3.20] - 2026-04-17
 🎉 fix voice genarate task, add api usage for local tts, and some other minor bugs and changes...
 
