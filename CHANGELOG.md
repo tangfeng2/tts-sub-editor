@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.23] - 2026-04-22
+🚀 fix sync mode and some other minor bugs and changes...
+
 ## [v2.3.22] - 2026-04-20
 🎉 fix Ai Studio translate task, fix del snapshot project, Local TTS genarate voice and add new provider, add custom text normalize, and some other minor bugs and changes...
 
