@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.25] - 2026-04-22
+🎉 fix Ai Studio translate task, memory leak for export capcut, fix path audio srt export, feat: add merge sub in timeline, drag copy item, and some other minor bugs and changes...
+
 ## [v2.3.23] - 2026-04-22
 🚀 fix sync mode and some other minor bugs and changes...
 
