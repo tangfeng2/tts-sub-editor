@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.26] - 2026-04-24
+🎉 add batch job for tts provider, fix some bugs...
+
 ## [v2.3.25] - 2026-04-22
 🎉 fix Ai Studio translate task, memory leak for export capcut, fix path audio srt export, feat: add merge sub in timeline, drag copy item, and some other minor bugs and changes...
 
