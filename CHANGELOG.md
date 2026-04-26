@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.28] - 2026-04-26
+🎉 fix align text in Preview, add create composition for timeline, add folder for project, detect position sub when ocr, and some other minor bugs and changes...
+
 ## [v2.3.26] - 2026-04-24
 🎉 add batch job for tts provider, fix some bugs...
 
