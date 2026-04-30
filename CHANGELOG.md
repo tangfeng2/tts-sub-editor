@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.31] - 2026-04-30
+🎉 fix normalize vi text, update auto batch job, and some other minor bugs...
+
 ## [v2.3.30] - 2026-04-29
 🎉 add auto batch job, fix tts task, and some other minor bugs...
 
