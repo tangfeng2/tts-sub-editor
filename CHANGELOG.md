@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.32] - 2026-05-01
+🎉 fix sync mode, fix capcut export, update auto batch job, and some other minor bugs...
+
 ## [v2.3.31] - 2026-04-30
 🎉 fix normalize vi text, update auto batch job, and some other minor bugs...
 
