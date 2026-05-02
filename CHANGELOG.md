@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.33] - 2026-05-02
+🚀 fix genarate voice, fix translate ai, and some other minor bugs and changes...
+
 ## [v2.3.32] - 2026-05-01
 🎉 fix sync mode, fix capcut export, update auto batch job, and some other minor bugs...
 
