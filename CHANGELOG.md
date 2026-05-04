@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.36] - 2026-05-04
+🎉 add new tts provider, add Cutter bulk, fix some bugs...
+
 ## [v2.3.35] - 2026-05-02
 🎉 fix translate task and concurrent task, and some other minor bugs and changes...
 
