@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.38] - 2026-05-06
+🎉 fix capcut export, fix audio encode for render, and some bugs...
+
 ## [v2.3.36] - 2026-05-04
 🎉 add new tts provider, add Cutter bulk, fix some bugs...
 
