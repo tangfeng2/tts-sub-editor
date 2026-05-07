@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.40] - 2026-05-08
+🎉 fix tts, update translate, render, and some other minor bugs and changes...
+
 ## [v2.3.38] - 2026-05-06
 🎉 fix capcut export, fix audio encode for render, and some bugs...
 
