@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.41] - 2026-05-09
+🎉 fix local tts, translate ai task, and some other minor bugs and changes...
+
 ## [v2.3.40] - 2026-05-08
 🎉 fix tts, update translate, render, and some other minor bugs and changes...
 
