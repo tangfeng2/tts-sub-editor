@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.3.44] - 2026-05-11
+🎉 add new sync mode, and fix some bugs...
+
 ## [v2.3.43] - 2026-05-09
 🚀 fix download douyin.
 
