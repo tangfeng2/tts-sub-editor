@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.3] - 2026-05-13
+🎉 fix Preview proxies, update new api, fix data large for export, and some other minor bugs and changes...
+
 ## [v2.3.44] - 2026-05-11
 🎉 add new sync mode, trim audio, and fix some bugs...
 
