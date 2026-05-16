@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.6] - 2026-05-16
+🎉 fix memory leak for project task, and some other minor bugs...
+
 ## [v2.4.5] - 2026-05-15
 🎉 fix native render multi video, fix OCR bugs and some other minor bugs...
 
