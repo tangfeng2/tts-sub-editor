@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.7] - 2026-05-17
+🚀🚀🚀 hot fix crash on save project.
+
 ## [v2.4.6] - 2026-05-16
 🎉 fix memory leak for project task, and some other minor bugs...
 
