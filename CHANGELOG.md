@@ -1,6 +1,9 @@
 # 🧾 Change Log
 
-## [v2.4.7] - 2026-05-17
+## [v2.4.8] - 2026-05-17
+🎉 fix auto batch job, fix utf-8 path, update new migrate api, and some bugs...
+
+## [v2.4.7] - 2026-05-16
 🚀🚀🚀 hot fix crash on save project.
 
 ## [v2.4.6] - 2026-05-16
