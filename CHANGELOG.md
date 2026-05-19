@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.11] - 2026-05-20
+🎉 fix local tts, trim file, and some other minor bugs...
+
 ## [v2.4.10] - 2026-05-19
 🎉🎉 fix db pool bug and proxy for tts genarate voice, and some other minor bugs...
 
