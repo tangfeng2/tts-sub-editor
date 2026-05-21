@@ -1,5 +1,8 @@
 # 🧾 Change Log
 
+## [v2.4.13] - 2026-05-22
+🎉 fix local tts, fix timeline and add new feature select items edit, and some other minor bugs...
+
 ## [v2.4.11] - 2026-05-20
 🎉 fix local tts, trim file, fix batch duplicate, and some other minor bugs...
 
